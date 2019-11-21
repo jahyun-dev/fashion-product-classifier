@@ -23,6 +23,10 @@
 
 44000 products with category labels and images.
 
+### Development Setup
+
+To run [fashion-product-classifier.ipynb] (./ fashion-product-classifier.ipynb) you must get the dataset in the location `data / fashion-product-images-small.zip`.
+
 #### Please refer to
 
 - [proposal.pdf](./proposal.pdf) : detailing project motivation
